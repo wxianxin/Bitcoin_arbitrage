@@ -1,0 +1,1 @@
+It's a set of arbitrage scripts that I created to make triangular arbitrage. It's no longer profitable.
